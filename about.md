@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Level3 Games is a small, indie game development studio. We are focused on providing the best quality games, and maintaining a great experience for our users.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+We are gamers, and we strive to develop games that we enjoy and love, and hope that other gamers feel the same way.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+We value all your feedback, so please do not hesitate to reach out to us with any feedback, comments, or concerns at support@level3.io.
+
+One final note:
+
+Do you have a passion for making games? Do you like working in an environment where fun comes before business? (yeah, we mean it!) Are you a gifted designer or software engineer looking for an awesome team? APPLY NOW, by sending your application to support@level3.io.
