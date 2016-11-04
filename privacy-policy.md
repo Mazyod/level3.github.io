@@ -50,7 +50,7 @@ Level3 Games does not share your personal information except as approved by you 
 
 We may release your information as permitted by law or when we believe that release is appropriate to comply with the law; enforce or apply our rights; or protect the rights, property, or safety of us or our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
 
-Lumba may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company.
+Level3 Games may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company.
 
 We may anonymize and aggregate information about you with advertisers, publishers, business partners, sponsors, and other third parties.
 
@@ -64,7 +64,7 @@ You may see our games advertised in other applications. After clicking on one of
 
 ### Changing or Deleting Your Information
 
-You may contact us regarding any questions or comments regarding this Privacy Policy by emailing us at support@level3.io. If you completely delete all of your information, your account may become deactivated. You may opt-out of receiving promotional emails from us by following the instructions in those emails. If you opt-out, we may still send you non-promotional emails, such as emails about your accounts.
+You may contact us regarding any questions or comments regarding this Privacy Policy by emailing us at [support@level3.io][mailto-support]. If you completely delete all of your information, your account may become deactivated. You may opt-out of receiving promotional emails from us by following the instructions in those emails. If you opt-out, we may still send you non-promotional emails, such as emails about your accounts.
 
 ### Security
 
@@ -76,4 +76,6 @@ We may transfer information that we collect about you to affiliated entities, or
 
 ### Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at support@level3.io.
+If you have any questions about this Privacy Policy, please contact us at [support@level3.io][mailto-support].
+
+[mailto-support]: mailto:support@level3.io
