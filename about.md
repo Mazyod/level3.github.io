@@ -13,3 +13,5 @@ We value all your feedback, so please do not hesitate to reach out to us with an
 One final note:
 
 Do you have a passion for making games? Do you like working in an environment where fun comes before business? (yeah, we mean it!) Are you a gifted designer or software engineer looking for an awesome team? APPLY NOW, by sending your application to [support@level3.io][mailto-support].
+
+[mailto-support]: mailto:support@level3.io
