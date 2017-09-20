@@ -16,8 +16,8 @@
 title: Level3 Games
 email: support@level3.io
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to Level3 Games website! We have recently released our new mobile
-  game, Dama King! Check it out on the App Store and the Play Store.
+  Welcome to Level3 Games website! We have recently released our new
+  game, Dama King! Check it out on the App Store, Mac App Store or the Play Store.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://level3.io" # the base hostname & protocol for your site
 twitter_username: Level3io
