@@ -6,6 +6,33 @@ permalink: /privacy-policy/
 
 _Effective Date: Oct 31, 2016_
 
+### Dama King 4.7.0 privacy update
+
+_Updated November 14, 2026. This section describes Dama King 4.7.0 and takes precedence over the older app-specific descriptions below for that version. The older descriptions remain relevant to earlier releases._
+
+Level3 Games operates Dama King. Contact [support@level3.io][mailto-support] with privacy questions or requests.
+
+#### Information used to run the game
+
+- **Accounts:** We store player names, account and profile identifiers, and an installation token for guest accounts. If you register with email, we also store your email address and a hashed password. If you choose social sign-in, your provider supplies the identity and profile information you authorize it to share. We use this information to create, authenticate, and manage your account.
+- **Gameplay:** Our servers process moves, matchmaking requests, room names, and in-game messages to provide multiplayer play. We retain game records, results, and player statistics to operate the game and its rankings. Chat messages and room names are handled in memory for the live session rather than retained as a chat archive.
+- **Purchases:** Apple or Google processes payments. We receive purchase identifiers and receipts to deliver virtual items, track purchases, and check receipts. We do not receive your payment-card details.
+- **Support:** If you contact support, we receive your email address and the information you choose to send so that we can respond to your request. Do not send passwords or payment-card details.
+
+Other players can see your player name, public profile identifier, game results, and rankings. Messages and room names you choose to share are visible to the players participating in those features. Our hosting and service providers process information needed to operate the service. Social sign-in and store payments are also subject to the relevant provider's privacy policy.
+
+Dama King 4.7.0 does not serve third-party ads or collect an advertising identifier. Legacy Unity advertising, analytics, and cloud crash-reporting startup are disabled. We use game statistics on our own servers to operate and understand gameplay. The app does not request device location, contacts, microphone, or camera access. Connections to the game's public account and multiplayer services use encryption in transit.
+
+#### Retention and account deletion
+
+We retain account, gameplay, and purchase records while your account is active. You can permanently delete a registered or guest account from **Account → Delete account** in Dama King 4.7.0. Deletion removes the account, linked sign-in and guest-device records, profile and statistics, purchase records held by us, and game records associated with the profile. Deletion cannot be undone and does not itself refund a store purchase or remove transaction records held independently by Apple or Google.
+
+If you cannot access the app, email [support@level3.io][mailto-support] to request deletion. We may ask for information needed to verify that the account is yours. Instructions are available on our [account-deletion page](https://auth.level3.io/account-deletion).
+
+Our database backups rotate over a weekly cycle. Deleted information can remain in those backups until they are replaced; backups are not kept as a permanent archive. Messages or other information that another player has independently copied are outside our control.
+
+---
+
 ### Introduction and Your Agreement to this Privacy Policy
 
 Level3 Games, and its affiliates (“Level3 Games”, “us”, “our” or “we”) are dedicated to protecting the privacy rights of our users (“users” or “you”). This Privacy Policy (the “Policy”) describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect in connection with our website at level3.io (the “Site”) and its subdomains or any of our applications provided on other websites or other third party sources (collectively, the “Service”). Personal information can include, for example, an individual’s first and last name, address, telephone number, e-mail address or credit card number. Please note that the scope of this Privacy Policy is limited to information collected or received by Level3 Games through your use of the Service. Level3 Games is not responsible for the actions of third party people or companies, the content of their sites, the use of information you provide to them, or any products or services they may offer. Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies.
