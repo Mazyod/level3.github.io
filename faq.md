@@ -4,18 +4,30 @@ title: FAQ
 permalink: /faq/
 ---
 
-# What information do you collect about me?
+<p><a lang="tr" hreflang="tr" href="/tr/faq/">Türkçe</a> · <a lang="es" hreflang="es" href="/es/faq/">Español</a></p>
 
-Level3 does not collect any *private data* about you, so please rest assured that in the unlikely event of a data breach, there is nothing to be gained by the offending party.
+# Dama King help
 
-However, in order to authorize access to your account, **including your in-app purchases**, we request that you authenticate in order to access your account. This means, we store your ID. The ID could be your email, facebook ID, twitter ID, or other information depending on your choice of login.
+## How can I change the language?
 
-We also store your **public** information in order to enhance your experience, such as recommend a username for you upon creating your account.
+Open Settings and choose a language. English and Arabic are available in version 4.7; Turkish and Spanish are added in version 4.8. The choice is saved for your next launch.
 
-Finally, we do collect anonymous information, such as masked crash logs and usage statistics, in order to measure overall user experience and satisfaction.
+## Can I play without an account or an internet connection?
 
-# What if I wanted to delete my account, and all associated data?
+Offline games against the computer are free. Online play and the store need an internet connection. The game creates a guest account for online features; registering helps keep your progress associated with your sign-in.
 
-Simply send an email to [support@level3.io](mailto:support@level3.io?subject=Account%20Deletion) with the subject: "Account Deletion". You will recieve a response within 48 hours to verify your information and confirm the deletion process. In order to verify your information, you will need to be able to access the same login method used for your account. For example, if your account is associated with Twitter login, you will need access to the same twitter account in order to confirm your identity.
+## What information does Dama King use?
 
-**IMPORTANT:** IN DOING SO, YOU WILL LOSE ALL YOUR PROGRESS IN THE GAME, INCLUDING ANY IN APP PURCHASES OR COLLECTED DIGITAL ASSETS. ONCE THE OPERATION IS CONFIRMED, IT CANNOT BE REVERSED.
+We use account and device identifiers, player names, game records, statistics and purchase receipts to operate the game. Email registration also uses an email address and a hashed password. Dama King 4.7 disables legacy third-party advertising, analytics and cloud crash-reporting startup. Details are in our [privacy policy](/privacy-policy/).
+
+## How do I delete my account?
+
+In the app, open Account, choose Delete account, and read the confirmation. Deletion is permanent and removes the account and its associated coins, statistics, sign-ins, game records and purchase records held by Level3 Games. Uninstalling the app does not delete the account.
+
+If you cannot use the app, follow the [account-deletion instructions](https://auth.level3.io/account-deletion) or email [support@level3.io](mailto:support@level3.io). We verify ownership before deletion. Never send your password or sign-in token.
+
+Daily database backups rotate over seven days. Deleted data may remain in those backups until they are replaced. Records held independently by Apple or Google are managed by those stores.
+
+## I need help with a purchase or connection problem
+
+Contact [support@level3.io](mailto:support@level3.io) with your player name, app version, platform and a description of the issue. For a purchase problem, include the store's order reference if available. Never send payment-card details, passwords or sign-in tokens.

@@ -1,0 +1,24 @@
+{
+  "tr": {
+    "title-help": "Dama King yardımı",
+    "title-privacy": "Gizlilik politikası",
+    "home-summary": "Türk damasını çevrimdışı olarak beş yapay zekâ seviyesine karşı veya çevrimiçi olarak dereceli maçlarda ve özel odalarda oynayın.",
+    "contact": "Destek ile iletişime geçin",
+    "terms-english": "Hizmet Şartları (İngilizce)",
+    "about-english": "Level3 Games Hakkında (İngilizce)",
+    "home": "Ana Sayfa",
+    "help": "Yardım",
+    "delete": "Hesabı sil"
+  },
+  "es": {
+    "title-help": "Ayuda de Dama King",
+    "title-privacy": "Política de privacidad",
+    "home-summary": "Juegue damas turcas sin conexión contra cinco niveles de IA, o en línea en partidas clasificatorias y salas privadas.",
+    "contact": "Contactar con soporte",
+    "terms-english": "Términos de servicio (inglés)",
+    "about-english": "Acerca de Level3 Games (inglés)",
+    "home": "Inicio",
+    "help": "Ayuda",
+    "delete": "Eliminar cuenta"
+  }
+}
