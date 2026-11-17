@@ -4,11 +4,13 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
+<p><a lang="tr" hreflang="tr" href="/tr/privacy-policy/">Türkçe</a> · <a lang="es" hreflang="es" href="/es/privacy-policy/">Español</a></p>
+
 _Effective Date: Oct 31, 2016_
 
-### Dama King 4.7.0 privacy update
+### Dama King 4.7 and later: privacy update
 
-_Updated November 14, 2026. This section describes Dama King 4.7.0 and takes precedence over the older app-specific descriptions below for that version. The older descriptions remain relevant to earlier releases._
+_Updated November 17, 2026. This section describes Dama King 4.7 and later, including 4.8, and takes precedence over the older app-specific descriptions below for those versions. The older descriptions remain relevant to earlier releases._
 
 Level3 Games operates Dama King. Contact [support@level3.io][mailto-support] with privacy questions or requests.
 
@@ -21,11 +23,11 @@ Level3 Games operates Dama King. Contact [support@level3.io][mailto-support] wit
 
 Other players can see your player name, public profile identifier, game results, and rankings. Messages and room names you choose to share are visible to the players participating in those features. Our hosting and service providers process information needed to operate the service. Social sign-in and store payments are also subject to the relevant provider's privacy policy.
 
-Dama King 4.7.0 does not serve third-party ads or collect an advertising identifier. Legacy Unity advertising, analytics, and cloud crash-reporting startup are disabled. We use game statistics on our own servers to operate and understand gameplay. The app does not request device location, contacts, microphone, or camera access. Connections to the game's public account and multiplayer services use encryption in transit.
+Dama King 4.7 and later does not serve third-party ads or collect an advertising identifier. Legacy Unity advertising, analytics, and cloud crash-reporting startup are disabled. We use game statistics on our own servers to operate and understand gameplay. The app does not request device location, contacts, microphone, or camera access. Connections to the game's public account and multiplayer services use encryption in transit.
 
 #### Retention and account deletion
 
-We retain account, gameplay, and purchase records while your account is active. You can permanently delete a registered or guest account from **Account → Delete account** in Dama King 4.7.0. Deletion removes the account, linked sign-in and guest-device records, profile and statistics, purchase records held by us, and game records associated with the profile. Deletion cannot be undone and does not itself refund a store purchase or remove transaction records held independently by Apple or Google.
+We retain account, gameplay, and purchase records while your account is active. You can permanently delete a registered or guest account from **Account → Delete account** in Dama King 4.7 and later. Deletion removes the account, linked sign-in and guest-device records, profile and statistics, purchase records held by us, and game records associated with the profile. Deletion cannot be undone and does not itself refund a store purchase or remove transaction records held independently by Apple or Google.
 
 If you cannot access the app, email [support@level3.io][mailto-support] to request deletion. We may ask for information needed to verify that the account is yours. Instructions are available on our [account-deletion page](https://auth.level3.io/account-deletion).
 
